@@ -1,0 +1,1 @@
+// Use the some Method to Check that Any Elements in an Array Meet a Criteria
